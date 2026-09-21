@@ -1,5 +1,5 @@
-# opencart-antispam
-Opencart anti-spam extension.
+# opencart2-antispam
+Opencart2 anti-spam extension.
 
 ## How to install
 
